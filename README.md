@@ -1,8 +1,8 @@
 # Engineering at Speko
 
-Speko is OpenRouter for Voice AI. Speko helps developers build voice apps that talk and can make and receive phone calls. We benchmark speech models in public and use those measurements to choose your model. The work is measurement, routing and real-time infrastructure, in Go, TypeScript and Python, and every published number must be one a stranger can re-run.
+Speko is a voice agent platform for business phone calls: teams build, test, run and monitor AI phone agents for scripted calls such as interviews, candidate screens and intake. We benchmark speech models in public and use those measurements to choose your model. The work is measurement, routing and real-time infrastructure, in Go, TypeScript and Python, and every published number must be one a stranger can re-run.
 
-Before you apply, look at the real work: the open-source gateway repository ([github.com/SpekoAI/gateway](https://github.com/SpekoAI/gateway)), [benchmarks.speko.ai](https://benchmarks.speko.ai) (it publishes a data.json and an llms.txt), and [docs.speko.dev](https://docs.speko.dev).
+Before you apply, look at the real work: the open-source gateway repository ([github.com/SpekoAI/gateway](https://github.com/SpekoAI/gateway)), [speko.com/benchmarks](https://speko.com/benchmarks) (it publishes a data.json and an llms.txt), and [docs.speko.ai](https://docs.speko.ai).
 
 Apply through [the form](https://docs.google.com/forms/d/e/1FAIpQLScr36iwQRena6sUX9HKrT7SdvPJl8QDVHO_0TPeTrZwKd9Abg/viewform); it takes five to ten minutes. The rest of this page explains every step.
 
